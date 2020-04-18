@@ -1,13 +1,14 @@
 # ssrvtools
-A tool set for serial section reconstruction and visualization.  
-**👷🚧 Under construction.** The tool set will be uploaded soon.
-
-## Applications
-- 3D reconstruction and visualization of parasitic plants
+A tool set for serial section reconstruction and visualization.
 
 ## Documentation
-- Installation
-- Usage
+- [Installation](docs/install.md)
+- [Usage](docs/usage.md)
+
+## Results
+- 3D reconstruction and visualization of parasitic plants
+
+![Visualization](docs/img/visualization.gif "Visualization using ParaView")
 
 ## Acknowledgements
 This tool set was developed in [ICB Lab](http://icb-lab.naist.jp/english/contactus.html) for a collaborative research with [Plant Symbiosis Lab](https://bsw3.naist.jp/yoshida/index-en.html), NAIST, Japan.  

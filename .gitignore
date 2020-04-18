@@ -1,0 +1,15 @@
+__pycache__
+*.egg-info
+
+
+# images
+*.mha
+*.mhd
+*.raw
+*.zraw
+
+# polygons
+*.vtk
+*.vtp
+*.stl
+*.ply
