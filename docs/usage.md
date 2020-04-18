@@ -1,7 +1,7 @@
 # Workflow
 
 ## 1. Image Registration (alignment)
-Align sequence of section images.
+Align sequence of section images. [Document](https://github.com/yk-szk/ssrvtools/releases/tag/document)
 
 <table>
 <tr><th>Pre alignment - xy plane</th></tr>
